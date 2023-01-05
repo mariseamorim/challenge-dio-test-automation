@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$IO0pAyKmjArzrghuybFbu.JuhQszshYOptmRHLY/bt1bTTEVKAceq",
+      "id": 1
+    }
+  ],
+  "bookings": [
+    {
+      "bookingid": 2409,
+      "booking": {
+        "firstname": "Teste",
+        "lastname": "Marise",
+        "totalprice": 111,
+        "depositpaid": true,
+        "bookingdates": {
+          "checkin": "2018-01-01",
+          "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+      }
+    }
+  ]
+}
